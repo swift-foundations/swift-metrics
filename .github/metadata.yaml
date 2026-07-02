@@ -1,6 +1,6 @@
 # .github/metadata.yaml
 # Triaged by AI-assisted bulk pass (2026-04-29).
-description: "Metrics for Swift."
+description: "Counter, gauge, and timer instrumentation for Swift."
 topics:
   - foundations
   - metrics
