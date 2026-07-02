@@ -1,6 +1,6 @@
 # .github/metadata.yaml
 # Triaged by AI-assisted bulk pass (2026-04-29).
-description: "Counter, gauge, and timer instrumentation for Swift."
+description: "Namespace reserved for counter, gauge, and timer instrumentation in Swift."
 topics:
   - foundations
   - metrics
